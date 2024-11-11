@@ -1,4 +1,4 @@
-# Grocery Store Simulation [March 2024]
+# Grocery Store Simulation [February - March 2024]
 
 This repository contains a project to build an **Event-Driven Grocery Store Simulation**. This tool models customer arrivals, checkout processes, and line management strategies to help grocery stores optimize checkout staffing based on customer flow throughout the day.
 
